@@ -1,0 +1,1 @@
+short_movies = selected_movies[selected_movies['duration'] > 60]
